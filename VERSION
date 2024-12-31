@@ -1,0 +1,15 @@
+#### Version: 1.0.0
+Initial release of the Terraform AWS IAM Role module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 29-Dec-2024
+Updated: 
+Description: This module creates and manages AWS IAM role / policy and instance profile.
+
+## Features
+- Create IAM roles with specified policies
+- Attach managed policies to IAM roles
+- Create instance profiles and associate them with IAM roles
+- Support for tagging resources
+- Example usage provided in README
+- Default tags configuration
